@@ -1,6 +1,8 @@
 <div id="top" align="center">
   
-# Codecrypt76
+# CodeCrypt76
+
+<img src="https://github.com/seraph776/codecrypt76/assets/72005563/7461a84d-8046-4672-9c18-c4c2f319469f" width="550" />
 
 
 _Show your support and give this repo a_ ⭐
@@ -10,7 +12,7 @@ _Show your support and give this repo a_ ⭐
 
 ## ℹ️ Info
 
-Codecrypt76 is a cache of Python scripts, and small projects.
+**CodeCrypt76** is a cache of Python scripts, and small projects.
 
 ## Content
 
