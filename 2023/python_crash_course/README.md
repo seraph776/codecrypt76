@@ -1,7 +1,7 @@
 <div align="center">
 
-# Big Book of Small Python Projects
-by Al Sweigart
+# Python Crash Course
+by Eric Matthes
 
 </div>
 
@@ -11,6 +11,7 @@ This directory contains my solutions to exercises from Python Crash Course.
 
 ## Content
 
-- [Bagels](01_bagels.py)
-- [Birthday Paradox](02_birthday_paradox.py)
-- 
+### Chapter 02
+- [simple message](chapter_02/simple_message.py)
+- simple messages
+
