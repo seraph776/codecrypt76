@@ -12,4 +12,4 @@ This directory contains my solutions to exercises from Python Crash Course.
 ## Content
 
 -  [Chapter 02](chapter_02/)
-
+-  [Chapter 03](chapter_03/)
