@@ -31,10 +31,12 @@ class Pizza:
 
 if __name__ == '__main__':
     my_pizza = Pizza()
-    my_pizza.add_toppings('pepperoni')
-    my_pizza.add_toppings('extra cheese')
-    my_pizza.add_toppings('mushroom')
+    with open('data/toppings.txt') as fo:
+        toppings = [i.strip() for i in fo]
+    for t in toppings:
+        my_pizza.add_toppings(t)
     print(my_pizza)
 
     for topping in my_pizza.toppings:
         print(f'I like {topping} pizza!')
+    print(' - I love all pizza!!')
