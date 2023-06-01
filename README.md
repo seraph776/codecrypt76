@@ -9,6 +9,7 @@
 
 <img src="https://github.com/seraph776/codecrypt76/assets/72005563/7461a84d-8046-4672-9c18-c4c2f319469f" width="550" />
 
+ _"Eat, Sleep, Code repeat"_ - Sun Tzu
 
 _Show your support and give this repo a_ ⭐
 
