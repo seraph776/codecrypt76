@@ -2,10 +2,17 @@
   
 # Codecrypt76
 
+![GitHub repo size](https://img.shields.io/github/repo-size/seraph776/codecrypt76?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seraph776/codecrypt76?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/seraph776/codecrypt76?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/seraph776/codecrypt76?style=for-the-badge)
+
 <img src="https://github.com/seraph776/codecrypt76/assets/72005563/7461a84d-8046-4672-9c18-c4c2f319469f" width="550" />
 
 
 _Show your support and give this repo a_ ⭐
+
+![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/codecrypt76?style=social)
 
 </div>  
 
