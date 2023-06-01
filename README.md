@@ -24,9 +24,9 @@ _Show your support and give this repo a_ ⭐
 
 ## Content
 
-- [Code Challenges](codeChallenges/) - code solutions to various code challenge sites           
-- [Codex Gigas](codexGigas/) - code solutions to various Python programming books
-- [Interview Questions](interviewQuestions/) - Python Interview Q & A   
+- [Code Challenges](codecrypt76/codeChallenges/) - code solutions to various code challenge sites           
+- [Codex Gigas](codecrypt76/codexGigas/) - code solutions to various Python programming books
+- [Interview Questions](codecrypt76/interviewQuestions/) - Python Interview Q & A   
 
 
 
