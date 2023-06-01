@@ -10,10 +10,9 @@ metadoc: Print all the multiplication tables with numbers from 1 to 10
 def solution():
     output = ''
     for n in range(1, 11):
-        for m in range(1, 11):
-            output += f'{n} * {m} = {n * m}\n'
-            print(output)
-        #output += '\n'
+        for m in range(1,11):
+            output += f'{n} * {m} = {n*m}\n'
+        output += '\n'
     return output
 
 
