@@ -24,9 +24,11 @@ _Show your support and give this repo a_ ⭐
 
 ## Content
 
+- [Code Challenges](codeChallenges/) - code solutions to various code challenge sites           
+- [Codex Gigas](codexGigas/) - code solutions to various Python programming books
+- [Interview Questions](interviewQuestions/) - Python Interview Q & A   
 
 
-- [2023](/2023)
 
 
 ## Feedback / Questions?
