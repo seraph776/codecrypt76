@@ -2,7 +2,7 @@
   
 # Codecrypt76
 
-est 05.23.2023 
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/seraph776/codecrypt76)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seraph776/codecrypt76)
@@ -11,7 +11,7 @@ est 05.23.2023
 
 <img src="https://github.com/seraph776/codecrypt76/assets/72005563/7461a84d-8046-4672-9c18-c4c2f319469f" width="550" />
 
- _"Eat, Sleep, Code repeat"_ - Sun Tzu
+_est 05.23.2023_ 
 
 _Show your support and give this repo a_ ⭐
 
