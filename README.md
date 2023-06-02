@@ -22,7 +22,8 @@ _Show your support and give this repo a_ ⭐
 
 ## ℹ️ Info
 
-**Codecrypt76** is a cache of Python scripts, and small projects. **Note:** 🚧This repo will be in a continuous state of construction. 
+**Codecrypt76** is a cache of Python scripts, and small projects.  
+**Note:** 🚧This repo will be in a continuous state of construction. 
 
 ## Content
 
