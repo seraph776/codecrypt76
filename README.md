@@ -2,6 +2,8 @@
   
 # Codecrypt76
 
+est 05.23.2023 
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/seraph776/codecrypt76)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seraph776/codecrypt76)
 ![GitHub top language](https://img.shields.io/github/languages/top/seraph776/codecrypt76)
@@ -20,12 +22,12 @@ _Show your support and give this repo a_ ⭐
 
 ## ℹ️ Info
 
-**Codecrypt76** is a cache of Python scripts, and small projects.
+**Codecrypt76** is a cache of Python scripts, and small projects. **Note:** 🚧This repo will be in a continuous state of construction. 
 
 ## Content
 
 - [Code Challenges](codecrypt76/codeChallenges/) - code solutions to various code challenge sites           
-- [Codex Gigas](codecrypt76/codexGigas/) - code solutions to various Python programming books
+- [Codex Gigas](codecrypt76/codexGigas/) - A massive collection of code solutions to various Python programming books
 - [Interview Questions](codecrypt76/interviewQuestions/) - Python Interview Q & A   
 - [Data Structures and Algorithms](codecrypt76/dataStructuresandAlgorithms) - Python Data Structures and Algorithms
 
