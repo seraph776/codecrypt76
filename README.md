@@ -27,10 +27,13 @@ _Show your support and give this repo a_ ⭐
 
 ## Content
 
-- [Code Challenges](codecrypt76/codeChallenges/) - code solutions to various code challenge sites           
-- [Codex Gigas](codecrypt76/codexGigas/) - A massive collection of code solutions to various Python programming books
-- [Interview Questions](codecrypt76/interviewQuestions/) - Python Interview Q & A   
-- [Data Structures and Algorithms](codecrypt76/dataStructuresandAlgorithms) - Python Data Structures and Algorithms
+
+| Directory Name                                                             | Description                                                                | Date started | Date completed |
+|----------------------------------------------------------------------------|:---------------------------------------------------------------------------|:------------:|:--------------:|
+| [Code Challenges](codecrypt76/codeChallenges/)                             | Code solutions to various code challenge sites                             |  05/28/2023  |       ∞        |
+| [Codex Gigas](codecrypt76/codexGigas/)                                     | A massive collection of code solutions to various Python programming books |  05/28/2023  |       ∞        |
+| [Interview Questions](codecrypt76/interviewQuestions/)                     | Python Interview Q & A                                                     |  05/31/2023  |       ∞        |
+| [Data Structures and Algorithms](codecrypt76/dataStructuresandAlgorithms/) | Python Data Structures and Algorithms                                      |  06/01/2023  |       ∞        |
 
 
 
