@@ -12,5 +12,16 @@ Python Enhancement Proposal is the Python latest coding conventions.
 
 OOP is a programming paradigm where code represents real life objects. Each objects has a set of attributes, and functions that manipulate that data.  
 
-Can you walk us through your process for testing and debugging your code?
-How do you handle errors and exceptions in Python?
+> 4. What Does the ‘is’ Operator Do?
+
+This `is` operator compares to `id` of two objects
+
+> 5. What Is the Difference Between a List and a Tuple?
+
+Lists are `mutable` and tuples are `immutable` 
+
+
+> 6. What Is Docstring in Python?
+
+Docstrings provide documentation to various Python modules, classes, functions, and methods 
+
